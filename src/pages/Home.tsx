@@ -244,7 +244,7 @@ const Home = () => {
           className="shop-now-btn bg-red-600 text-white px-8 py-3 rounded-md uppercase font-medium hover:bg-red-700 transition"
           aria-label="Shop Now Button"
         >
-          Shop Now
+          Shop Now!
         </button>
       </section>
 
